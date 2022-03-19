@@ -4,7 +4,7 @@
 
 ## 用 [cloudflare worker](https://workers.cloudflare.com/) 自助创建 office 账号
 
-#### 后端 | [前端](https://github.com/zayabighead/office-user-auto-create/tree/client)
+#### 后端 | [前端](https://github.com/zhenkuaileya/office-user-auto-create/tree/client)
 
 ## 🚚 部署
 
